@@ -34,7 +34,7 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
+analytics-id:       "UA-112113512-1"
 #twitter:            default
 #facebook:           default
 #instagram:          default
@@ -42,7 +42,7 @@ analytics-id:       "default"
 
 # personal
 location:           Seattle, WA
-#phone:              310-318-5555
+phone:              (971) 800-0484 
 email:              dc@pbndata.com
 
 # Gems
